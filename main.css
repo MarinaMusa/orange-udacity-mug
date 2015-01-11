@@ -1,0 +1,54 @@
+/* Enter your custom CSS here */
+
+body {
+  font-family: "Lucida Grande", sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 2;
+}
+
+.main-heading {
+  color: #666666;
+  font-size: 48px;
+  margin-top: 45px;
+  margin-bottom: 30px;
+}
+
+.mug {
+  width: 374px;
+  height: 374px;
+  margin-left: -15px;
+}
+
+.features-box {
+  border: 1px solid #CCCCCC;
+  margin-top: 30px;
+  margin-left: -15px;
+  width: 374px;
+  height: 224px;
+  padding: 30px;
+}
+
+.features-heading {
+  color: #F07C17;
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 1px;
+  padding-bottom: 18px;
+}
+
+.sub-heading {
+  color: #F07C17;
+  font-size: 24px;
+  font-weight: bold;
+  margin-left: 12px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.body-text {
+  color: #666666;
+  margin-top: 9px;
+  padding-bottom: 30px;
+  line-height: 2;
+}
